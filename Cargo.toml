@@ -1,0 +1,9 @@
+[package]
+name = "lru-cache"
+version = "0.1.0"
+authors = ["Casey Marshall <git@cmars.tech>"]
+description = "Simple LRU cache"
+keywords = ["cache", "lru", "data-structures"]
+license = "Apache-2.0"
+
+[dependencies]
